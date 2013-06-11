@@ -1,4 +1,4 @@
-puts ('Come on, chat with granny.')
+puts ('Come on, let\'s chat with granny.')
 bye_count = 1
 while true
 	reply = gets.chomp
