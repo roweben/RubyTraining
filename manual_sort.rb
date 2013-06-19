@@ -1,3 +1,4 @@
+#This includes 10.3 portion (dictionary_sort) -- downcase was added
 unsorted_array = ['LION', 'cow', 'zebra', 'elephant', 'horse', 'dog', 'orangutan', 'gorilla', 
 			'aardvark', 'lion', 'Cow', 'tiger', 'puma', 'ferret', 'beaver', 'DOG']
 sorted_array = []
