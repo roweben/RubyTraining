@@ -1,0 +1,6 @@
+puts ("Hours in a year:  #{24*365}")
+puts ("Hours in a leap year:  #{24*366}")
+puts ("My age in seconds:  #{(60*60*24*365*58)+(60*60*24*(58/4))}")
+puts ("Minutes in a decade (assuming 2 leap years):  #{(60*24*365*10)+(60*24*2)}")
+puts ("Author's age:  #{1111000000/60/60/24/365}")
+puts ("My age:  #{1830297600/60/60/24/365}")
